@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "570471214774",
+    "firebase_url": "https://chats-d38c1-default-rtdb.firebaseio.com",
+    "project_id": "chats-d38c1",
+    "storage_bucket": "chats-d38c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570471214774:android:2da098a86054b2bf164017",
+        "android_client_info": {
+          "package_name": "com.example.guftgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570471214774-ik1vln0bvetvhlrr3lf1n1tqgp5de0bq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guftgo",
+            "certificate_hash": "df69fbf5853ab793c86cb56ba3a4bcc0eef89c14"
+          }
+        },
+        {
+          "client_id": "570471214774-r6r68bjvqgjumekhrn2g03qka65t0oaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDII6oeWwBtNLA4f9-c08VlsfrLpX7Hog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570471214774-r6r68bjvqgjumekhrn2g03qka65t0oaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570471214774:android:d7ed92e3d949d448164017",
+        "android_client_info": {
+          "package_name": "com.mianasad.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570471214774-r6r68bjvqgjumekhrn2g03qka65t0oaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDII6oeWwBtNLA4f9-c08VlsfrLpX7Hog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570471214774-r6r68bjvqgjumekhrn2g03qka65t0oaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570471214774:android:7906309efb165224164017",
+        "android_client_info": {
+          "package_name": "com.verbosetech.yoohoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570471214774-4ilfeoutdhkhcrl1g9igok3438oek685.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.verbosetech.yoohoo",
+            "certificate_hash": "df69fbf5853ab793c86cb56ba3a4bcc0eef89c14"
+          }
+        },
+        {
+          "client_id": "570471214774-r6r68bjvqgjumekhrn2g03qka65t0oaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDII6oeWwBtNLA4f9-c08VlsfrLpX7Hog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570471214774-r6r68bjvqgjumekhrn2g03qka65t0oaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
